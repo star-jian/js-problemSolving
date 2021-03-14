@@ -44,4 +44,5 @@ var valid = function(s){
         }
     }
 }
+
 valid(input)
